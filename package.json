@@ -1,0 +1,18 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "description": "this is example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonart",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/leonartdg/Buscador"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
